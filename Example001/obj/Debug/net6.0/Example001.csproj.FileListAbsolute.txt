@@ -1,0 +1,5 @@
+D:\sharp\sharp\Example001\obj\Debug\net6.0\Example001.csproj.AssemblyReference.cache
+D:\sharp\sharp\Example001\obj\Debug\net6.0\Example001.GeneratedMSBuildEditorConfig.editorconfig
+D:\sharp\sharp\Example001\obj\Debug\net6.0\Example001.AssemblyInfoInputs.cache
+D:\sharp\sharp\Example001\obj\Debug\net6.0\Example001.AssemblyInfo.cs
+D:\sharp\sharp\Example001\obj\Debug\net6.0\Example001.csproj.CoreCompileInputs.cache
