@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\sharp\\sharp\\Example001\\Example001.csproj": {}
+    "D:\\sharp\\sharp\\Example001\\seminar2\\seminar2.csproj": {}
   },
   "projects": {
-    "D:\\sharp\\sharp\\Example001\\Example001.csproj": {
+    "D:\\sharp\\sharp\\Example001\\seminar2\\seminar2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sharp\\sharp\\Example001\\Example001.csproj",
-        "projectName": "Example001",
-        "projectPath": "D:\\sharp\\sharp\\Example001\\Example001.csproj",
+        "projectUniqueName": "D:\\sharp\\sharp\\Example001\\seminar2\\seminar2.csproj",
+        "projectName": "seminar2",
+        "projectPath": "D:\\sharp\\sharp\\Example001\\seminar2\\seminar2.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\sharp\\sharp\\Example001\\obj\\",
+        "outputPath": "D:\\sharp\\sharp\\Example001\\seminar2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
